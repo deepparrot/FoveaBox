@@ -359,8 +359,8 @@ model_configs.append(
 model_configs.append(
     {'model_name': 'FoveaBox (ResNet-50, align, LR 2x)', 
      'paper_arxiv_id': '1904.03797',
-     'weights_url': '',
-     'weights_name': '',
+     'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r50_fpn_4gpu_2x_align.pth',
+     'weights_name': 'fovea_r50_fpn_4gpu_2x_align.pth',
      'config': './configs/foveabox/fovea_r50_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
@@ -368,8 +368,8 @@ model_configs.append(
 model_configs.append(
     {'model_name': 'FoveaBox (ResNet-50, align, LR 2x, ms-train)', 
      'paper_arxiv_id': '1904.03797',
-     'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r50_fpn_4gpu_2x_align.pth',
-     'weights_name': 'fovea_r50_fpn_4gpu_2x_align.pth',
+     'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_ms_r50_fpn_4gpu_2x_align.pth',
+     'weights_name': 'fovea_ms_r50_fpn_4gpu_2x_align.pth',
      'config': './configs/foveabox/fovea_ms_r50_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
