@@ -343,7 +343,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r50_fpn_4gpu_1x.pth',
      'weights_name': 'fovea_r50_fpn_4gpu_1x.pth',
-     'config': './configs/fovea_r50_fpn_4gpu_1x.py',
+     'config': './configs/foveabox/fovea_r50_fpn_4gpu_1x.py',
     'paper_results': None}
 )
 
@@ -352,7 +352,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r50_fpn_4gpu_2x.pth',
      'weights_name': 'fovea_r50_fpn_4gpu_2x.pth',
-     'config': './configs/fovea_r50_fpn_4gpu_2x.py',
+     'config': './configs/foveabox/fovea_r50_fpn_4gpu_2x.py',
     'paper_results': {'box AP': 0.371, 'AP50': 0.572, 'AP75': 0.395, 'APS': 0.216, 'APM': 0.414, 'APL': 0.491}}
 )
 
@@ -361,7 +361,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': '',
      'weights_name': '',
-     'config': './configs/fovea_r50_fpn_4gpu_2x_align.py',
+     'config': './configs/foveabox/fovea_r50_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
 
@@ -370,7 +370,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r50_fpn_4gpu_2x_align.pth',
      'weights_name': 'fovea_r50_fpn_4gpu_2x_align.pth',
-     'config': './configs/fovea_ms_r50_fpn_4gpu_2x_align.py',
+     'config': './configs/foveabox/fovea_ms_r50_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
 
@@ -379,7 +379,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r101_fpn_4gpu_1x.pth',
      'weights_name': 'fovea_r101_fpn_4gpu_1x.pth',
-     'config': './configs/fovea_r101_fpn_4gpu_1x.py',
+     'config': './configs/foveabox/fovea_r101_fpn_4gpu_1x.py',
     'paper_results': None}
 )
 
@@ -388,7 +388,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r101_fpn_4gpu_2x.pth',
      'weights_name': 'fovea_r101_fpn_4gpu_2x.pth',
-     'config': './configs/fovea_r101_fpn_4gpu_2x.py',
+     'config': './configs/foveabox/fovea_r101_fpn_4gpu_2x.py',
     'paper_results': None}
 )
 
@@ -397,7 +397,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_r101_fpn_4gpu_2x_align.pth',
      'weights_name': 'fovea_r101_fpn_4gpu_2x_align.pth',
-     'config': './configs/fovea_r101_fpn_4gpu_2x_align.py',
+     'config': './configs/foveabox/fovea_r101_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
 
@@ -406,7 +406,7 @@ model_configs.append(
      'paper_arxiv_id': '1904.03797',
      'weights_url': 'https://github.com/deepparrot/FoveaBox/releases/download/2.0/fovea_ms_r101_fpn_4gpu_2x_align.pth',
      'weights_name': 'fovea_ms_r101_fpn_4gpu_2x_align.pth',
-     'config': './configs/fovea_ms_r101_fpn_4gpu_2x_align.py',
+     'config': './configs/foveabox/fovea_ms_r101_fpn_4gpu_2x_align.py',
     'paper_results': None}
 )
 
