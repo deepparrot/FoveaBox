@@ -1,0 +1,11 @@
+Cython
+mmcv
+numpy
+matplotlib
+opencv-python
+tqdm
+torch
+torchvision
+Pillow
+scipy
+terminaltables
